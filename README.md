@@ -41,17 +41,17 @@ Berikut adalah kumpulan website yang dapat anda gunakan untuk mencari Jurnal dan
 
 ### Bahasa Indonesia
 
-  - [Neliti](neliti.com "Bahasa Indonesia")
+  - [Neliti](https://neliti.com "Bahasa Indonesia")
   - [Ristekbrin](https://garuda.ristekbrin.go.id "Bahasa Indonesia")
-  - [Google Scholar](scholar.google.com "Bahasa Indonesia & Inggris")
-  - [Perpusnas](e-resources.perpusnas.go.id "Bahasa Indonesia & Inggris")
-  - [Doaj](doaj.org "Bahasa Indonesia & Inggris")
+  - [Google Scholar](https://scholar.google.com "Bahasa Indonesia & Inggris")
+  - [Perpusnas](https://e-resources.perpusnas.go.id "Bahasa Indonesia & Inggris")
+  - [Doaj](https://doaj.org "Bahasa Indonesia & Inggris")
 
 ### Bahasa Luar Negri
-  - [Sciencedirect](sciencedirect.com "Bahasa Inggris")
-  - [Journal](journal.csj.jp "Bahasa Inggris")
-  - [Iopscience](iopscience.iop.org "Bahasa Inggris")
-  - [Emerald](emerald.com "Bahasa Inggris")
+  - [Sciencedirect](https://sciencedirect.com "Bahasa Inggris")
+  - [Journal](https://journal.csj.jp "Bahasa Inggris")
+  - [Iopscience](https://iopscience.iop.org "Bahasa Inggris")
+  - [Emerald](https://emerald.com "Bahasa Inggris")
 
 
 
