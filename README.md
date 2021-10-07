@@ -14,7 +14,7 @@ OJS + Implementasi sistem informasi
 
 
 
-### **Skripsi**
+## **Skripsi**
 
 #
 
@@ -26,7 +26,7 @@ Ini adalah kumpulan website yang dapat anda gunakan untuk mencari skripsi yang s
 
 
 
-### **Plagiarism checker & Parahprase**
+## **Plagiarism checker & Parahprase**
 
 #
 
@@ -39,14 +39,13 @@ Plagiarism checker adalah kumpulan website untuk mengecek berapa persen tingkat 
 - [Paraphrases](paraphrases.io)
 
 
-
-### **Jurnal dan makalah**
+## **Jurnal dan makalah**
 
 #
 
 Berikut adalah kumpulan website yang dapat anda gunakan untuk mencari Jurnal dan makalah berbahasa Indonesia maupun bahasa lain.
 
-- Bahasa Indonesia
+### Bahasa Indonesia
 
   - [Neliti](neliti.com "Bahasa Indonesia")
   - [Ristekbrin](garuda.ristekbrin.go.id "Bahasa Indonesia")
@@ -54,7 +53,7 @@ Berikut adalah kumpulan website yang dapat anda gunakan untuk mencari Jurnal dan
   - [Perpusnas](e-resources.perpusnas.go.id "Bahasa Indonesia & Inggris")
   - [Doaj](doaj.org "Bahasa Indonesia & Inggris")
 
-- Bahasa Luar Negri
+### Bahasa Luar Negri
   - [Sciencedirect](sciencedirect.com "Bahasa Inggris")
   - [Journal](journal.csj.jp "Bahasa Inggris")
   - [Iopscience](iopscience.iop.org "Bahasa Inggris")
@@ -62,7 +61,7 @@ Berikut adalah kumpulan website yang dapat anda gunakan untuk mencari Jurnal dan
 
 
 
-### **Prensentasi**
+## **Prensentasi**
 
 #
 
