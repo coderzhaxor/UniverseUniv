@@ -9,6 +9,7 @@
 Dibawah ini adalah kumpulan resource yang dapat diakses secara gratis. khusus untuk jurnal maupun skripsi, jika masih belum menemukan dokumen yang diinginkan, kalian bisa cari dengan cara ketik di google `OJS + [subjek yang dicari]` misalnya :
 
 ```bash
+
 OJS + Implementasi sistem informasi
 ```
 
