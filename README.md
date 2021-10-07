@@ -29,10 +29,10 @@ Ini adalah kumpulan website yang dapat anda gunakan untuk mencari skripsi yang s
 Plagiarism checker adalah kumpulan website untuk mengecek berapa persen tingkat plagiat kita dalam suatu dokumen yang kita buat. di dalam website ini juga terdapat Paraphrasing tools yang berguna untuk menurunkan tingkat plagiarisme.
 
 - [Seomagnifier](https://seomagnifier.com/)
-- [AI Article Spineer](aiarticlespinner.co)
-- [Editpad](editpad.org)
-- [Spinner ID](spinner.id)
-- [Paraphrases](paraphrases.io)
+- [Article Rewriter](https://aiarticlespinner.co/)
+- [Editpad](https://www.editpad.org/tool/id/paraphrasing-tool)
+- [Spinner ID](https://spinner.id/)
+- [Paraphrases](https://www.paraphraser.io/id/parafrase-online)
 
 
 ## **Jurnal dan makalah**
