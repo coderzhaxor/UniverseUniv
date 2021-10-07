@@ -12,7 +12,7 @@ Dibawah ini adalah kumpulan resource yang dapat diakses secara gratis. khusus un
 OJS + Implementasi sistem informasi
 ```
 
-#
+
 
 ### **Skripsi**
 
@@ -24,7 +24,7 @@ Ini adalah kumpulan website yang dapat anda gunakan untuk mencari skripsi yang s
 - [Pondokskripsi](https://pondokskripsi.wordpress.com/)
 - [Koleksikripsi](http://www.koleksiskripsi.com/)
 
-#
+
 
 ### **Plagiarism checker & Parahprase**
 
@@ -38,7 +38,7 @@ Plagiarism checker adalah kumpulan website untuk mengecek berapa persen tingkat 
 - [Spinner ID](spinner.id)
 - [Paraphrases](paraphrases.io)
 
-#
+
 
 ### **Jurnal dan makalah**
 
@@ -60,7 +60,7 @@ Berikut adalah kumpulan website yang dapat anda gunakan untuk mencari Jurnal dan
   - [Iopscience](iopscience.iop.org "Bahasa Inggris")
   - [Emerald](emerald.com "Bahasa Inggris")
 
-#
+
 
 ### **Prensentasi**
 
