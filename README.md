@@ -42,7 +42,7 @@ Berikut adalah kumpulan website yang dapat anda gunakan untuk mencari Jurnal dan
 ### Bahasa Indonesia
 
   - [Neliti](neliti.com "Bahasa Indonesia")
-  - [Ristekbrin](garuda.ristekbrin.go.id "Bahasa Indonesia")
+  - [Ristekbrin](https://garuda.ristekbrin.go.id "Bahasa Indonesia")
   - [Google Scholar](scholar.google.com "Bahasa Indonesia & Inggris")
   - [Perpusnas](e-resources.perpusnas.go.id "Bahasa Indonesia & Inggris")
   - [Doaj](doaj.org "Bahasa Indonesia & Inggris")
