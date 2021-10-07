@@ -16,8 +16,6 @@ OJS + Implementasi sistem informasi
 
 ## **Skripsi**
 
-#
-
 Ini adalah kumpulan website yang dapat anda gunakan untuk mencari skripsi yang sudah ada dan dapat diakses secara gratis.
 
 - [Skripsi.co.id](https://skripsi.co.id/)
@@ -27,8 +25,6 @@ Ini adalah kumpulan website yang dapat anda gunakan untuk mencari skripsi yang s
 
 
 ## **Plagiarism checker & Parahprase**
-
-#
 
 Plagiarism checker adalah kumpulan website untuk mengecek berapa persen tingkat plagiat kita dalam suatu dokumen yang kita buat. di dalam website ini juga terdapat Paraphrasing tools yang berguna untuk menurunkan tingkat plagiarisme.
 
@@ -40,8 +36,6 @@ Plagiarism checker adalah kumpulan website untuk mengecek berapa persen tingkat 
 
 
 ## **Jurnal dan makalah**
-
-#
 
 Berikut adalah kumpulan website yang dapat anda gunakan untuk mencari Jurnal dan makalah berbahasa Indonesia maupun bahasa lain.
 
@@ -62,8 +56,6 @@ Berikut adalah kumpulan website yang dapat anda gunakan untuk mencari Jurnal dan
 
 
 ## **Prensentasi**
-
-#
 
 Ini adalah list kumpulan website yang dapat digunakan ketika presentasi. Menurut saya website ini memiliki tampilan yang lebih menarik dan interaktif dibanding dengan presentasi menggunakan powerpoint. Jika yang anda cari adalah template powerpoint maka tunggu update berikutnya.
 
