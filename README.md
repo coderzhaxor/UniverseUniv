@@ -2,7 +2,7 @@
 
 [![Trakteer](https://img.shields.io/badge/Trakteer-red?style=for-the-badge)](https://trakteer.id/c0derzhax0r/tip?utm_source=github)
 
-<p>UniverseUniv adalah repository untuk menyimpan berbagai macam resource, tools, dan tips yang dikhususkan untuk mahasiswa dalam menunjang pembelajarannya selama masa perkuliahan. Kami sangat senang dan berterimakasih bila anda ikut berkontribusi dalam repository ini. Jika anda ingin berkontribusi dalam repository ini silahkan fork dan beri star terlebih dahulu lalu ajukan pull request. ataupun jika kalian hanya ingin donasi, silahkan klik tombol trakteer diatas.</p>
+<p>UniverseUniv adalah repository untuk menyimpan berbagai macam resource, tools, dan tips yang dikhususkan untuk mahasiswa dalam menunjang pembelajarannya selama masa perkuliahan. Kami sangat senang dan berterimakasih bila anda ingin ikut berkontribusi dalam repository ini. Jika anda ingin berkontribusi dalam repository ini silahkan fork dan beri star terlebih dahulu lalu ajukan pull request. ataupun jika anda ingin membantu melalui donasi terhadap repository ini, silahkan klik tombol trakteer diatas.</p>
 
 ## **Resource**
 
